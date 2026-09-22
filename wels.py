@@ -1,3 +1,3 @@
 def hello_world():
-    for _ in range(10):
+    for _ in range(50):
         print("hello world")
